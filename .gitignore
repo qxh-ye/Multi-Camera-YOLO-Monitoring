@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.log
+
+# Models
+models/
+*.pt
+
+# Videos
+videos/
+*.mp4
+
+# IDE
+.idea/
+.vscode/
+
+# Virtual Env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
