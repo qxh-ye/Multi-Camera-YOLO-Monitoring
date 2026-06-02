@@ -1,5 +1,9 @@
 # Multi-Camera YOLO Monitoring System
 
+## Project Demo
+
+![dashboard](project_images/dashboard.png)
+
 ## 项目简介
 
 基于 Flask + YOLOv8 + OpenCV 构建的多路视频实时监控平台。
